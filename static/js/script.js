@@ -15,10 +15,10 @@ function createBubble(time, text) {
 }
 
 const bubbles = [
-  { time: 4, text: "不仅仅是最低工资工人。。。一年之内" },
-  { time: 9, text: "超过亚马逊最低工资的员工。。。一年之内" },
-  { time: 13, text: "超过美国年薪的中位数" },
-  { time: 18, text: "超过美国的平均年薪" },
+  { time: 4, text: "变成了煞笔。。。一年之内" },
+  { time: 9, text: "越来越煞笔。。。一年之内" },
+  { time: 13, text: "特别的煞笔" },
+  { time: 18, text: "太tm煞笔" },
   { time: 23, text: "比他自己的年薪还高！" },
   { time: 28, text: "足够不符合covid-19刺激检查" },
   { time: 32, text: "超过高级软件开发人员的平均年薪" },
